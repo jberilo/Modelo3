@@ -15,7 +15,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# Modulo 3 - HTML Dcumentos
+# Modulo 3 - HTML Dcumentos Atual
 
 ## R Markdown {#nextsteps .emphasized}
 
