@@ -4,6 +4,7 @@ author: "Jose Berilo"
 date: "13/01/2022"
 output: 
   html_document: 
+    df_print: kable
     fig_width: 6
     fig_height: 6
     toc: yes
